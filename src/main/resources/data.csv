@@ -1,0 +1,12 @@
+4
+Adopt
+Trial
+Asses
+Hold
+id;name;category;ringName;previousRing
+0;PostgrSQL;Datastores;Adopt;Adopt
+1;AWS S3;Datastores;Adopt;Trial
+2;Docker;Infrastructure;Adopt;Trial
+3;Kotlin;Languages;Adopt;Adopt
+4;Haskell;Languages;Hold;Asses
+5;AWS Lambda;Infrastructure;Trial;Asses

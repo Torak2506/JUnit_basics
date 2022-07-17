@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DataTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-07-17T09:31:29" hostname="TORAK2506" time="0.072">
+  <properties/>
+  <testcase name="[1] 0, 1" classname="DataTest" time="0.047"/>
+  <testcase name="[2] 1, 0" classname="DataTest" time="0.002"/>
+  <testcase name="[3] 2, 2" classname="DataTest" time="0.002"/>
+  <testcase name="[4] 3, 5" classname="DataTest" time="0.001"/>
+  <testcase name="[5] 4, 3" classname="DataTest" time="0.001"/>
+  <testcase name="[6] 5, 4" classname="DataTest" time="0.002"/>
+  <testcase name="dataImportTest()" classname="DataTest" time="0.007"/>
+  <system-out><![CDATA[012345012345012345012345012345012345012345]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
