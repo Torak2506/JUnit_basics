@@ -9,7 +9,7 @@ class Data {
         var file = File(csvPath)
         var lines = file.readLines()
         var numberOfRings = lines[0].toInt();
-        for(i in 1 until numberOfRings)
+        for(i in 1 .. numberOfRings)
         {
             rings.add(lines[i])
         }

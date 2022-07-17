@@ -14,6 +14,7 @@ internal class DataTest
     {
         testData.import("F:\\untitled2\\src\\main\\resources\\data.csv",2);
         assertEquals(5,testData.technologies[5].id)
+        assertEquals(4,testData.rings.size)
     }
 
 
